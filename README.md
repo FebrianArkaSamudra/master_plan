@@ -44,7 +44,7 @@ Essentially, the list location in memory stays fixed, but the information within
 
 ### 4. Capture the results of Step 9 as a GIF, then explain what you have created!
 
-![alt text](img/step9.gif)
+![alt text](img/prac1step9.gif)
 
 The GIF showcases the functional Master Plan application. Users can browse tasks, toggle their completion status, and create new entries instantly through Flutter's stateful widget mechanism.
 
