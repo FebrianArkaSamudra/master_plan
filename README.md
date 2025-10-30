@@ -29,7 +29,7 @@ When the button is pressed:
 - Explanation:
 The GIF above shows how the app dynamically adds items and refreshes the list view instantly without requiring a full restart.
 
-🔁 4. Purpose of Methods in Steps 11 and 13 within the State Lifecycle
+4. Purpose of Methods in Steps 11 and 13 within the State Lifecycle
 
 *Step 11 — initState()*
 
